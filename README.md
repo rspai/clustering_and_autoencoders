@@ -1,2 +1,2 @@
 # clustering_and_autoencoders
-Cluster analysis on Fashion MNIST data with and without the usage of autoencoders
+This project performs clustering on fashion MNIST data. Three approaches have been used, namely, KMeans clustering without autoencoders, KMeans clustering with autoencoder and Gaussian Mixture Model using autoencoder. The classification features that are used are from the Fashion MNIST dataset which have been pre-computed from the digital images of Zalando’s articles. A comparison of the accuracy of the three models obtained post clustering is applied is also provided.
